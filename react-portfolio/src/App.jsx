@@ -6,7 +6,7 @@ import { Navbar } from './components/Navbar/Navbar';
 import "@fontsource/roboto";
 import "@fontsource/outfit";
 import { Experience } from './components/Experience/Experience';
-import { Projects } from './components/projects/projects';
+import { Projects } from './components/projects/Projects';
 import { Contact } from './components/Contact/Contact';
 
 function App() {
