@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Character Creator",
+        "imageSrc": "projects/project.png",
+        "description": "Combined my knowledge of programming and 3D modeling",
+        "skills": ["C#", "Unity", "Blender"],
+        "demo": "https://play.unity.com/en/games/6e543392-7180-43c7-a093-7916d5de20cb/character-customizer-06",
+        "source": "history/trumanEsports.png"
+    },
+    {
+        "title": "Rocket League Display",
+        "imageSrc": "skills/html.png",
+        "description": "skills/html.png",
+        "skills": ["HTML", "CSS", "Javascript"],
+        "demo": "",
+        "source": "skills/html.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png",
+        "description": "skills/html.png",
+        "skills": ["C#", "Unity", "Blender"],
+        "demo": "",
+        "source": "skills/html.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png",
+        "description": "skills/html.png",
+        "skills": ["C#", "Unity", "Blender"],
+        "demo": "",
+        "source": "skills/html.png"
+    }
+    
+]

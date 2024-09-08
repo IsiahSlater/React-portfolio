@@ -1,5 +1,6 @@
 html{
   border: 1px MediumSpringGreen solid;
+  border-image: linear-gradient(red, blue);
   scroll-behavior: smooth;
   overflow-x: hidden;
 }
@@ -27,6 +28,8 @@ html{
 body{
   background-color: #171010;
   outline: 1px solid MediumSpringGreen;
+  outline-color: linear-gradient(red, blue);
+  
 }
 h1,h2, p, a, li, nav-item{
   color: #fff;
@@ -95,8 +98,15 @@ h2{
   text-align: right;
 }
 .gold{
-  -webkit-text-stroke: 1.5px MediumSpringGreen;
-}
+   color: #171010;
+   -webkit-text-stroke-color: transparent;
+   background: linear-gradient(-45deg, #eeaa52, #e73c6f, #2394d5, #2af3b7);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: #171010;
+    -webkit-text-stroke-width: .3vw;
+
+  } 
 
 img{
   width: 100%;

@@ -1,0 +1,35 @@
+[
+    {
+        "role": "Content Creator",
+        "organ": "Truman Esports",
+        "startDate": "May 2023",
+        "endDate": "May 2024",
+        "experiences": ["Developed broadcast overlay using Javascript", "Created videos and graphics for social media"],
+        "imgSrc": "history/trumanEsports.png"
+    },
+    {
+        "role": "HTML",
+        "organ": "skills/html.png",
+        "startDate": "skills/html.png",
+        "endDate": "skills/html.png",
+        "experiences": ["Developed broadcast overlay using Javascript", "Created videos and graphics for social media"],
+        "imgSrc": "skills/html.png"
+    },
+    {
+        "role": "HTML",
+        "organ": "skills/html.png",
+        "startDate": "skills/html.png",
+        "endDate": "skills/html.png",
+        "experiences": ["Developed broadcast overlay using Javascript", "Created videos and graphics for social media"],
+        "imgSrc": "skills/html.png"
+    },
+    {
+        "role": "HTML",
+        "organ": "skills/html.png",
+        "startDate": "skills/html.png",
+        "endDate": "skills/html.png",
+        "experiences": ["Developed broadcast overlay using Javascript", "Created videos and graphics for social media"],
+        "imgSrc": "skills/html.png"
+    }
+    
+]
