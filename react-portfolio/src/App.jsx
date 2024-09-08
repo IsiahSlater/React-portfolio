@@ -7,6 +7,7 @@ import "@fontsource/roboto";
 import "@fontsource/outfit";
 import { Experience } from './components/Experience/Experience';
 import { Projects } from './components/projects/projects';
+import { Contact } from './components/Contact/Contact';
 
 function App() {
   
@@ -18,6 +19,7 @@ function App() {
       <About />
       <Experience />
       <Projects />
+      <Contact />
     </div>
   );
 }
